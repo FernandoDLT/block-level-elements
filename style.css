@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.hello {
+    border: 1px solid black;
+}
+
+div {
+    border: 2px solid rgb(241, 78, 7);
+}
